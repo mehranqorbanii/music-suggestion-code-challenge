@@ -1,4 +1,4 @@
-2
+3
 - name: gholi
   age: 18
   city: tehran
@@ -20,7 +20,7 @@
     - eclipse
     - barf
     - hoyad
-4
+6
 - name: eclipse
   singer: malmsteen
   genre: classic
@@ -45,7 +45,7 @@
   singer: hoyad
   genre: persian
   tracks: 5
-12
+7
 1 gholi hoyad
 1 gholi xy
 2 gholi rock
