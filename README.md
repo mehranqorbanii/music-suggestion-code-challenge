@@ -52,7 +52,7 @@ Apart from these DPs, a Layer architecture approached has been followed in code 
 
 ## Improvement
 
-although this is a complete working code and will do the job done is still can have so many improvements
+although this is a complete working code and will do the job done, it still can have so many improvements
 _**EX**_ :
 
 * more test must be added to increase coverage and confidence on code (special on edge cased)
