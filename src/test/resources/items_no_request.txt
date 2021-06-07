@@ -1,0 +1,48 @@
+2
+- name: gholi
+  age: 18
+  city: tehran
+  albums:
+    - tekunbede
+    - barf
+    - hoyad
+- name: mehdi
+  age: 20
+  city: mashhad
+  albums:
+    - eclipse
+    - barf
+    - hoyad
+- name: mehdi
+  age: 20
+  city: mashhad
+  albums:
+    - eclipse
+    - barf
+    - hoyad
+6
+- name: eclipse
+  singer: malmsteen
+  genre: classic
+  tracks: 10
+- name: barf
+  singer: xy
+  genre: pop
+  tracks: 22
+- name: tekunbede
+  singer: xy
+  genre: pop
+  tracks: 14
+- name: hoyad
+  singer: hoyad
+  genre: persian
+  tracks: 5
+- name: hoyad
+  singer: hoyad
+  genre: persian
+  tracks: 5
+- name: hoyad
+  singer: hoyad
+  genre: persian
+  tracks: 5
+0
