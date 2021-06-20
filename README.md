@@ -27,7 +27,7 @@ Following Item will be discussed in following sections:
 
 for implementing this algorithm every process is tried to be as simple as possible with the least used libraries :
 
-* APACHE Collection utils
+* Apache commons
 * jackson
 * lombok ( to write less boilerplate :D )
 
@@ -55,8 +55,8 @@ Apart from these DPs, a Layer architecture approached has been followed in code 
 although this is a complete working code and will do the job done, it still can have so many improvements
 _**EX**_ :
 
-* more test must be added to increase coverage and confidence on code (special on edge cased)
-* namings can be more accurate specially on _**RequestHandler**_ implementation for now they are just named based on
+* more test must be added to increase coverage and confidence on code (specially on edge cases)
+* namings can be more accurate specially on _**RequestHandler**_ implementations, for now they are just named based on
   question inputs.
 * validation on _**Parse**_ input file can be more specific.
   
